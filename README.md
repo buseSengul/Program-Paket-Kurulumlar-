@@ -4,7 +4,8 @@
 Bu doküman, **Ubuntu işletim sistemine sahip bir host bilgisayar**
 üzerinden **Jetson cihazına JetPack 5.1.x kurulumu** için adımları
 açıklar. Kurulumlar **NVIDIA SDK Manager** ile gerçekleştirilir.
-https://www.forecr.io/blogs/installation/jetpack-5-x-installation-for-dsboard-ornx-lan sitesi takip edilerek kurulum yapılmıştır. Flashlama işlemi siteden farklı olarak terminal kodu ile değil SDK manager ile yapılmıştır.
+
+https://www.forecr.io/blogs/installation/jetpack-5-x-installation-for-dsboard-ornx-lan sitesi takip edilerek kurulum yapılmıştır. Flashlama işlemi terminal komutları ile yapıldığında shell hatası alınmıştır o nedenle flashlama işlemi siteden farklı olarak terminal kodu ile değil SDK manager ile yapılmıştır.
 
 ------------------------------------------------------------------------
 
