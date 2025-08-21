@@ -66,20 +66,20 @@ JetPack-5.1.1 için:
 
 1.  GitHub'dan uygun BSP dosyasını indirin ve zipten çıkarın:
 
--JetPack-5.1.1 için: 
-Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_1_bsp.tar.xz)
-Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_1_bsp.tar.xz)
-JetPack-5.1.2 için: 
-Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_2_bsp.tar.xz)
-Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_2_bsp.tar.xz)
-JetPack-5.1.3 için:
-Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_3_bsp.tar.xz)
-Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_3_bsp.tar.xz)
-JetPack-5.1.4 için:
-Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_4_bsp.tar.xz)
-Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_4_bsp.tar.xz)
+-JetPack-5.1.1 için:   
+Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_1_bsp.tar.xz)  
+Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_1_bsp.tar.xz)  
+JetPack-5.1.2 için:   
+Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_2_bsp.tar.xz)  
+Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_2_bsp.tar.xz)  
+JetPack-5.1.3 için:  
+Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_3_bsp.tar.xz)  
+Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_3_bsp.tar.xz)  
+JetPack-5.1.4 için:  
+Orin NX: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nx_JP5_1_4_bsp.tar.xz)  
+Orin Nano: (https://github.com/forecr/dsboard_ornx_lan_orin_bsp/raw/master/dsboard_ornx_lan_orin_nano_JP5_1_4_bsp.tar.xz)  
 
-NOT: Aşağıdaki adımlar Orin NX için yapılmıştır, diğer Jetson modül tipleri için de aynıdır, sadece BSP dosyaları farklıdır.
+NOT: Aşağıdaki adımlar Orin NX için yapılmıştır, diğer Jetson modül tipleri için de aynıdır, sadece BSP dosyaları farklıdır.  
 
     
 
