@@ -56,4 +56,6 @@ Bağımlılıkların otomatik çözümü için:
 sudo rosdep init
 rosdep update
 ```
+
+------------------------------------------------------------------------
 Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza JetPack kurulumu yapılabilir.
