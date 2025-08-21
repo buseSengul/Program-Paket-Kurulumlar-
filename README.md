@@ -46,18 +46,18 @@ Host bilgisayar içerisinde sdk manager yüklü mü kontrol edilir yüklü deği
 8.  **Target HW image folder** yoluna gidin:
 
         ~/nvidia/nvidia_sdk/JetPack_5.x.x_Linux_JETSON_ORIN_[NX/NANO]_TARGETS/
-JetPack-5.1.1 için: 
-          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.1_Linux_JETSON_ORIN_NX_TARGETS/ 
-          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.1_Linux_JETSON_ORIN_NANO_TARGETS/ 
- JetPack-5.1.2 için: 
-          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.2_Linux_JETSON_ORIN_NX_TARGETS/ 
-          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.2_Linux_JETSON_ORIN_NANO_TARGETS/ 
- JetPack-5.1.3 için: 
-          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.3_Linux_JETSON_ORIN_NX_TARGETS/ 
-          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.3_Linux_JETSON_ORIN_NANO_TARGETS/ 
- JetPack-5.1.4 için: 
-          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.4_Linux_JETSON_ORIN_NX_TARGETS/ 
-          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.4_Linux_JETSON_ORIN_NANO_TARGETS/ 
+JetPack-5.1.1 için:  
+          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.1_Linux_JETSON_ORIN_NX_TARGETS/  
+          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.1_Linux_JETSON_ORIN_NANO_TARGETS/  
+ JetPack-5.1.2 için:  
+          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.2_Linux_JETSON_ORIN_NX_TARGETS/  
+          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.2_Linux_JETSON_ORIN_NANO_TARGETS/  
+ JetPack-5.1.3 için:  
+          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.3_Linux_JETSON_ORIN_NX_TARGETS/  
+          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.3_Linux_JETSON_ORIN_NANO_TARGETS/  
+ JetPack-5.1.4 için:  
+          Orin NX: ~/nvidia/nvidia_sdk/JetPack_5.1.4_Linux_JETSON_ORIN_NX_TARGETS/  
+          Orin Nano: ~/nvidia/nvidia_sdk/JetPack_5.1.4_Linux_JETSON_ORIN_NANO_TARGETS/  
 
 
 ------------------------------------------------------------------------
