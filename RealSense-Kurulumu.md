@@ -20,7 +20,7 @@ cd ~/catkin_ws
 catkin_make
 source devel/setup.bash
  ``` 
-4.Kamerayı çalıştırma
+4. Kamerayı çalıştır:
 
 Kurulumdan sonra:
  ``` bash
@@ -29,7 +29,7 @@ roslaunch realsense2_camera rs_camera.launch enable_color:=true
  ``` 
 
 Başarılıysa /camera/color/image_raw gibi ROS topic’leri yayınlanmaya başlar.
-5. Topic’leri listele
+5. Topic’leri listele:
 
 Yeni bir terminalde:
  ``` bash
