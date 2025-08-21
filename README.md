@@ -111,10 +111,10 @@ Jetson cihazı recovery moduna aşağıdaki adımları izleyerek alın:
 Bu işlem cihazı Recovery Moduna alacaktır (işlem sonrasında jetson cihazının altındaki ışıklar yanacak ve fanı kapanacaktır).
 2.   Ardından terminalde `lsusb` komutunu çalıştırın ve cihazın Recovery modunda bağlandığını kontrol edin:
 
-        0955:7323 → Orin NX 16GB
-        0955:7423 → Orin NX 8GB
-        0955:7523 → Orin Nano 8GB
-        0955:7623 → Orin Nano 4GB
+        0955:7323 → Orin NX 16GB  
+        0955:7423 → Orin NX 8GB  
+        0955:7523 → Orin Nano 8GB  
+        0955:7623 → Orin Nano 4GB  
 
 ------------------------------------------------------------------------
 
@@ -142,9 +142,9 @@ Bu işlem cihazı Recovery Moduna alacaktır (işlem sonrasında jetson cihazın
 ## 7. Karşılaşılabilinecek Olası Hatalar
 
 -   **IP adresi hatası:**
-Jetson ip adresi hatası alındığında jetson bilgisayarının ip adresini kontrol edin. İlk olarak “ip addr” komutu ile ip adreslerini listeleyin. Jetson usb’ ye karşılık gelen adresi bulun (enx… formatında olacaktır enxXXX i usb interfacinin adı ile değiştirin) Uygun ip adresini elle ekleyin. 
-sudo ip addr add 192.168.55.100/24 dev enxXXXX
-sudo io link set enxXXXX up
+Jetson ip adresi hatası alındığında jetson bilgisayarının ip adresini kontrol edin. İlk olarak “ip addr” komutu ile ip adreslerini listeleyin. Jetson usb’ ye karşılık gelen adresi bulun (enx… formatında olacaktır enxXXX i usb interfacinin adı ile değiştirin) Uygun ip adresini elle ekleyin.   
+sudo ip addr add 192.168.55.100/24 dev enxXXXX  
+sudo io link set enxXXXX up  
 
 Adımlar başarı ile tamamlandıktan sonra ping atarak portun açık olup olmadığını test edin.
 
