@@ -24,3 +24,4 @@ pip3 install ./onnxruntime_gpu-1.18.0-cp38-cp38-linux_aarch64.whl
 
 
 ------------------------------------------------------------------------
+Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza ONNX-Runtime kurulumu yapılabilir.
