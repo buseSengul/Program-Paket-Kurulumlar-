@@ -43,3 +43,5 @@ rqt_image_view
 
 --------------------------------------------------------------------------------------------
 
+Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza RealSense kurulumu yapılabilir.
+
