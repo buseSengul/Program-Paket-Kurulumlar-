@@ -58,4 +58,4 @@ rosdep update
 ```
 
 ------------------------------------------------------------------------
-Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza JetPack kurulumu yapılabilir.
+Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza Ros-noetic kurulumu yapılabilir.
