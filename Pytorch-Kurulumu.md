@@ -46,3 +46,5 @@ python3 -m pip install torch-[dosya adı].whl
    python3 -c "import torch; print(torch.__version__, torch.cuda.is_available(), torch.version.cuda)"
 ``` 
 
+------------------------------------------------------------------------
+Bu README ile adımlar net bir şekilde takip edilerek Jetson cihazınıza Pytorch kurulumu yapılabilir.
