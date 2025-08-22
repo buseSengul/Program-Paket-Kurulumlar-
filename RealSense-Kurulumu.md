@@ -29,6 +29,7 @@ roslaunch realsense2_camera rs_camera.launch enable_color:=true
  ``` 
 
 Başarılıysa /camera/color/image_raw gibi ROS topic’leri yayınlanmaya başlar.
+
 5. Topic’leri listele:
 
 Yeni bir terminalde:
